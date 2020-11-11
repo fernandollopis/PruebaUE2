@@ -10,7 +10,7 @@ edad = [20, 21, 19, 22]
 class2020 = pd.DataFrame ({'nombre': nombre, 'genero': genero, 'edad': edad})
 class2020.shape
 class2020.head()
-
+print ('hola')
 #Borrado
 del (nombre , genero , edad)
 # Export dataframe to Excel
